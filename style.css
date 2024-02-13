@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 40px;
+}
+
+input {
+    padding: 10px 45px;
+    font-weight: 600;
+    display: block;
+    margin: 20px auto;
+}
+
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.937);
+}
+
+#result {
+    text-align: center;
+    margin: 40px 0;
+
+}
